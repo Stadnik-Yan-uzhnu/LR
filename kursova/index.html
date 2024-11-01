@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Вакансії</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Каталог Вакансій</h1>
+</header>
+
+<section class="filters">
+    <input type="text" id="search" placeholder="Пошук за назвою або компанією" aria-label="Search jobs">
+    <button id="searchButton" type="button">Шукати</button>
+    <select id="typeFilter" aria-label="Тип зайнятості">
+        <option value="">Тип зайнятості</option>
+        <option value="Full-time">Full-time</option>
+        <option value="Part-time">Part-time</option>
+        <option value="Contract">Contract</option>
+    </select>
+    <select id="experienceFilter" aria-label="Рівень досвіду">
+        <option value="">Рівень досвіду</option>
+        <option value="Junior">Junior</option>
+        <option value="Mid-level">Mid-level</option>
+        <option value="Senior">Senior</option>
+    </select>
+    <input type="text" id="locationFilter" placeholder="Локація" aria-label="Location filter">
+
+    <select id="sort" aria-label="Сортувати за">
+        <option value="date">Сортувати за датою</option>
+        <option value="title">Сортувати за назвою</option>
+    </select>
+</section>
+
+<main id="jobsContainer" class="jobs-container"></main>
+
+<div id="modal" class="modal">
+    <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <h2 id="modalTitle"></h2>
+        <p><strong>Опис:</strong> <span id="modalDescription"></span></p>
+        <p><strong>Необхідні навички:</strong> <span id="modalSkills"></span></p>
+    </div>
+</div>
+
+<footer>
+    <address>
+        <p>Зв'язок з адміністрацією:</p>
+        <p>Email: <a href="mailto:stadnik.yan@student.uzhnu.edu.ua">stadnik.yan@student.uzhnu.edu.ua</a></p>
+        <p>PGP fingerprint: <code>8901 77F8 4064 392C 6393 D45C FD16 ABE9 5BAD F2D0</code></p>
+    </address>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

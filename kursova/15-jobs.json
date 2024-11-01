@@ -1,0 +1,113 @@
+[
+    {
+      "jobId": 901,
+      "title": "Software Engineer",
+      "company": "Tech Solutions Ltd.",
+      "location": "Київ, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Mid-level",
+      "postedDate": "2023-10-01",
+      "description": "Ми шукаємо досвідченого Software Engineer з досвідом роботи з Java та Spring Framework.",
+      "skills": ["Java", "Spring", "SQL", "Git"]
+    },
+    {
+      "jobId": 902,
+      "title": "Project Manager",
+      "company": "Innovatech",
+      "location": "Львів, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Senior",
+      "postedDate": "2023-09-25",
+      "description": "Шукаємо відповідального Project Manager для керування командою розробників.",
+      "skills": ["Project Management", "Agile", "Scrum", "Communication"]
+    },
+    {
+      "jobId": 903,
+      "title": "UI/UX Designer",
+      "company": "Creative Minds",
+      "location": "Одеса, Україна",
+      "type": "Part-time",
+      "experienceLevel": "Mid-level",
+      "postedDate": "2023-09-20",
+      "description": "Потрібен талановитий UI/UX Designer для розробки інтерфейсів веб-додатків.",
+      "skills": ["Adobe XD", "Figma", "User Research", "Prototyping"]
+    },
+    {
+      "jobId": 904,
+      "title": "QA Engineer",
+      "company": "Quality Assurance Co.",
+      "location": "Харків, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Junior",
+      "postedDate": "2023-10-05",
+      "description": "Приєднуйтесь до нашої команди як QA Engineer для забезпечення якості програмного забезпечення.",
+      "skills": ["Testing", "Automation", "Selenium", "Bug Tracking"]
+    },
+    {
+      "jobId": 905,
+      "title": "Data Analyst",
+      "company": "Data Insights",
+      "location": "Дніпро, Україна",
+      "type": "Contract",
+      "experienceLevel": "Mid-level",
+      "postedDate": "2023-09-15",
+      "description": "Ми шукаємо Data Analyst для аналізу великих обсягів даних та створення звітів.",
+      "skills": ["SQL", "Python", "Data Visualization", "Statistics"]
+    },
+    {
+      "jobId": 906,
+      "title": "Frontend Developer",
+      "company": "WebWorks",
+      "location": "Запоріжжя, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Mid-level",
+      "postedDate": "2023-10-02",
+      "description": "Шукаємо Frontend Developer з досвідом роботи з React та Vue.js.",
+      "skills": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
+    },
+    {
+      "jobId": 907,
+      "title": "System Administrator",
+      "company": "IT Support Corp.",
+      "location": "Київ, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Senior",
+      "postedDate": "2023-09-28",
+      "description": "Потрібен System Administrator для підтримки та налаштування мереж та серверів.",
+      "skills": ["Linux", "Windows Server", "Networking", "Security"]
+    },
+    {
+      "jobId": 908,
+      "title": "Digital Marketing Specialist",
+      "company": "MarketPro",
+      "location": "Львів, Україна",
+      "type": "Part-time",
+      "experienceLevel": "Mid-level",
+      "postedDate": "2023-09-22",
+      "description": "Ми шукаємо Digital Marketing Specialist для розробки та впровадження маркетингових стратегій.",
+      "skills": ["SEO", "Content Marketing", "Social Media", "Google Analytics"]
+    },
+    {
+      "jobId": 909,
+      "title": "DevOps Engineer",
+      "company": "Cloud Solutions",
+      "location": "Одеса, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Senior",
+      "postedDate": "2023-10-03",
+      "description": "Шукаємо досвідченого DevOps Engineer для управління CI/CD процесами.",
+      "skills": ["AWS", "Docker", "Kubernetes", "Jenkins"]
+    },
+    {
+      "jobId": 910,
+      "title": "Customer Support Representative",
+      "company": "HelpDesk Ltd.",
+      "location": "Харків, Україна",
+      "type": "Full-time",
+      "experienceLevel": "Junior",
+      "postedDate": "2023-09-18",
+      "description": "Потрібен Customer Support Representative для підтримки клієнтів по телефону та електронній пошті.",
+      "skills": ["Communication", "Problem Solving", "CRM", "Multitasking"]
+    }
+  ]
+  
