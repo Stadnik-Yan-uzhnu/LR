@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Abel';
+    src: url('Abel-Regular.woff2') format('woff2'),
+        url('Abel-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arvo';
+    src: url('Arvo.woff2') format('woff2'),
+        url('Arvo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
